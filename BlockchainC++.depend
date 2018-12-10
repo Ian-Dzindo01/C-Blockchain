@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542870881 source:d:\codeblocks\projects\blockchain c++\main.cpp
+	<ctime>
+	<string>
+	<sstream>
+	<iostream>
+	<vector>
+	<cstring>
+
